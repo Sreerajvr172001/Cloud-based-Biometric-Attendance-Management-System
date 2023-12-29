@@ -20,7 +20,7 @@ Adafruit_Fingerprint finger = Adafruit_Fingerprint(&fingerPrint);
 #define reverse 17
 #define buzzer 16
 
-#define records 100// 10 for 10 user
+#define records 100
 
 char c;
 String msg;
